@@ -15,6 +15,8 @@
     <li>tiga</li>
     <li>empat</li>
     <li>lima</li>
+    <li>enam</li>
+    <li>tujuh</li>
   </ul>
 </body>
 </html>

@@ -17,6 +17,7 @@
     <li>lima</li>
     <li>enam</li>
     <li>tujuh</li>
+    <li>delapan</li>
   </ul>
 </body>
 </html>
